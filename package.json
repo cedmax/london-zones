@@ -21,5 +21,13 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "resolutions": {
+    "terser": "3.14.1"
+  },
+  "devDependencies": {
+    "async": "^2.6.1",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
 }
